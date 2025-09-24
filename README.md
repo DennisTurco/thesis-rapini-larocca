@@ -13,7 +13,7 @@
 ### 2.1 Clone this project
 
 1. open git terminal
-2. write: `git clone https://github.com/DennisTurco/thesis-repini-larocca`
+2. write: `git clone https://github.com/DennisTurco/thesis-rapini-larocca`
 
 ### 2.2 How to Compile in VS Code
 
