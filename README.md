@@ -1,8 +1,6 @@
 # Thesis Rapini-Larocca
 
-<p align="center">
-  <img src="images/logo.png" alt="logo">
-</p>
+![logo](images/logo.png)
 
 ## 1. Info
 
